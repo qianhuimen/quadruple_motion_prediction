@@ -28,7 +28,7 @@ Evaluation: To reproduce the results from our paper, run  `python evaluate.py`
 Visualization: `python forward_kinematics.py` The action type and seed can also be modified inside this file.
 
 # Bibtex
-```bash
+```
 @article{men20quadruple,
  author={Men, Qianhui and Ho, Edmond S. L. and Shum, Hubert P. H. and Leung, Howard},
  journal={IEEE Transactions on Circuits and Systems for Video Technology},
