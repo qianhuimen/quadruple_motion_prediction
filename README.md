@@ -25,7 +25,7 @@ cd ..
 Training from scratch: `python translate.py`  
 Save poses: `python translate.py --sample --iterations 50000 --load 50000`  
 Evaluation: To reproduce the results from our paper, run  `python evaluate.py`  
-Visualization: `python forward_kinematics.py` The action type and seed can also be modified inside this file.
+Visualization: `python forward_kinematics.py` The action type and seed can be changed inside this file.
 
 # Bibtex
 ```
