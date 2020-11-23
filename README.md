@@ -1,5 +1,5 @@
 # quadruple_motion_prediction
-Code for our TCSVT paper "A Quadruple Diffusion Convolutional Recurrent Network for Human Motion Prediction".
+Code for paper "A Quadruple Diffusion Convolutional Recurrent Network for Human Motion Prediction". Accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
 # Dependencies
 
